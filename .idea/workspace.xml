@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tradition-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8845d6b4-7918-48ae-8010-736e05a758a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/META-INF/tradition-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/com/BitterGourd/knowlegebase/CRUD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/com/BitterGourd/knowlegebase/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/tradition-web/META-INF/tradition-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/daoconf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/maven-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="knowledge-base" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SQLException</find>
+      <find>cause</find>
+      <find>Iterable</find>
+      <find>StackTraceElement</find>
+      <find>daoFactory</find>
+      <find>close</find>
+      <find>abstract</find>
+      <find>DataSourcePool</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tradition-web/src/a.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/ExceptionSilencer.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/StormyInning.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/test1.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/test.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/Strategize.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/Strategize.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/RecursiveFibonacci.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/l.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/function.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/UnboundMethodReference.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/a.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/java8/Closure6.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/daoconf.properties" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/UserDao.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/TransactionDemo.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/CRUD.java" />
+        <option value="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/test/a.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/a.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/DataSourceAdapter.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JdbcTemplateDemo.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" />
+        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\lenovo\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\lenovo\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="knowledge-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local,internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="785" />
+    <option name="y" value="35" />
+    <option name="width" value="1080" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
+              <item name="daoDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
+              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
+              <item name="daoDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringJdbcTemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="E:/apache-tomcat/lib/jsp-api.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git仓库\knowledge-base\tradition-web\src\com\BitterGourd\knowlegebase\daoDemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.BitterGourd.knowlegebase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.BitterGourd.knowlegebase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AbstractDao">
+    <configuration name="AbstractDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BitterGourd.knowlegebase.daoDemo.AbstractDao" />
+      <module name="tradition-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.BitterGourd.knowlegebase.daoDemo.SpringJdbcTemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Closure6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.Closure6" />
+      <module name="tradition-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.RecursiveFibonacci" />
+      <module name="tradition-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strategize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.Strategize" />
+      <module name="tradition-web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.TransformFunction" />
+      <module name="tradition-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.41" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="tradition-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tradition_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_41_knowledge-base" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60169" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tradition-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractDao" />
+        <item itemvalue="Application.Closure6" />
+        <item itemvalue="Application.TransformFunction" />
+        <item itemvalue="Application.RecursiveFibonacci" />
+        <item itemvalue="Application.Strategize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_PROPERTIES,SHOW_INTERFACES,VISIBILITY_SORTER,SHOW_INHERITED,SHOW_ANONYMOUS,SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8845d6b4-7918-48ae-8010-736e05a758a1" name="Default Changelist" comment="" />
+      <created>1578926926848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578926926848</updated>
+      <workItem from="1578926929621" duration="3775000" />
+      <workItem from="1578977327978" duration="6770000" />
+      <workItem from="1578995321436" duration="2541000" />
+      <workItem from="1578999862535" duration="316000" />
+      <workItem from="1579000310261" duration="29000" />
+      <workItem from="1579007981738" duration="10596000" />
+      <workItem from="1579023135738" duration="5401000" />
+      <workItem from="1579071160101" duration="302000" />
+      <workItem from="1579071492475" duration="19192000" />
+      <workItem from="1579106590344" duration="3187000" />
+      <workItem from="1579154749583" duration="4780000" />
+      <workItem from="1579160483457" duration="5637000" />
+      <workItem from="1579263309091" duration="11407000" />
+      <workItem from="1579274922442" duration="5462000" />
+      <workItem from="1579329570891" duration="107000" />
+      <workItem from="1579330834701" duration="19757000" />
+      <workItem from="1579368979773" duration="594000" />
+      <workItem from="1579369913468" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="101084000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.22184986" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.20844504" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39544237" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32841823" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49751243" weight="0.2613941" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50248754" side_tool="true" weight="0.3581081" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32841823" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3297587" />
+      <window_info anchor="bottom" id="Duplicates" order="14" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3297587" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.12734585" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Structure" order="7" sideWeight="0.5013405" weight="0.5545906" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tradition-web/src/java8/Strategize.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>size</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>apply(t)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.lang.invoke.MethodHandleImpl</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fillInStackTrace(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.toString();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/daoconf.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/MysqlDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3695">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/DatabaseMetaData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8115">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/ConnectionWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/3.0.8/mysql-connector-java-3.0.8.jar!/com/mysql/jdbc/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="606" column="22" selection-start-line="606" selection-start-column="22" selection-end-line="606" selection-end-column="22" />
+          <folding>
+            <element signature="e#26871#26872#0" expanded="true" />
+            <element signature="e#26919#26920#0" expanded="true" />
+            <element signature="e#28976#28977#0" expanded="true" />
+            <element signature="e#29018#29019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/a.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/api/MysqlConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/api/jdbc/JdbcConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/ServletConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/Servlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/javax/sql/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.my:knowledge-base:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.my:knowledge-base:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.my:knowledge-base:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="11.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/RowMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/support/JdbcUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/ResultSetMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/java/sql/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/src.zip!/javax/sql/RowSetMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/BeanPropertyRowMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/support/GeneratedKeyHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringTemplate.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/simple/SimpleJdbcCall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>tradition-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tradition-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.springframework:spring-jdbc:4.3.26.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
