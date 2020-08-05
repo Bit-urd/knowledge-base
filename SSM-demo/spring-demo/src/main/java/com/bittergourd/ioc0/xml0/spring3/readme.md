@@ -1,0 +1,1 @@
+javaBean的管理
