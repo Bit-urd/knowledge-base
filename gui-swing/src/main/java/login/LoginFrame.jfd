@@ -1,4 +1,4 @@
-JFDML JFormDesigner: "6.0.6.2.195" Java: "11.0.6" encoding: "UTF-8"
+JFDML JFormDesigner: "6.0.6.2.195" Java: "1.8.0_152-release" encoding: "UTF-8"
 
 new FormModel {
 	contentType: "form/swing"
@@ -6,7 +6,7 @@ new FormModel {
 		add( new FormWindow( "javax.swing.JFrame", new FormLayoutManager( class net.miginfocom.swing.MigLayout ) {
 			"$layoutConstraints": "hidemode 3,align center center"
 			"$columnConstraints": "[fill][fill][fill][fill]"
-			"$rowConstraints": "[][][][]"
+			"$rowConstraints": "[][][][][]"
 		} ) {
 			name: "this"
 			"minimumSize": new java.awt.Dimension( 600, 400 )
@@ -43,17 +43,26 @@ new FormModel {
 			add( new FormComponent( "javax.swing.JButton" ) {
 				name: "button1"
 				"text": "登陆"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "loginbuttonActionPerformed", true ) )
 			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
 				"value": "cell 1 3"
 			} )
 			add( new FormComponent( "javax.swing.JButton" ) {
 				name: "button2"
 				"text": "注册"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "registryActionPerformed", true ) )
 			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
 				"value": "cell 3 3"
 			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "label4"
+				"text": "text"
+				"visible": false
+			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
+				"value": "cell 2 4"
+			} )
 		}, new FormLayoutConstraints( null ) {
-			"location": new java.awt.Point( 145, 60 )
+			"location": new java.awt.Point( 175, 100 )
 			"size": new java.awt.Dimension( 400, 300 )
 		} )
 	}

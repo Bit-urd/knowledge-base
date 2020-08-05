@@ -3,7 +3,6 @@ package com.bittergourd.aop1.account0.service.impl;
 import com.bittergourd.aop1.account0.service.IAccountService;
 import com.bittergourd.aop1.account0.dao.IAccountDao;
 import com.bittergourd.aop1.account0.domain.Account;
-import com.bittergourd.aop1.account0.service.IAccountService;
 import com.bittergourd.aop1.account0.utils.TransactionManager;
 
 import java.util.List;

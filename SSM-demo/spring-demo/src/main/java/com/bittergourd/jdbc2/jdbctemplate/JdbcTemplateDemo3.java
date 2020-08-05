@@ -16,7 +16,7 @@ public class JdbcTemplateDemo3 {
 
     public static void main(String[] args) {
         //1.获取容器
-        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml0");
         //2.获取对象
         JdbcTemplate jt = ac.getBean("jdbcTemplate",JdbcTemplate.class);
         //3.执行操作

@@ -24,7 +24,7 @@
     <bean id="conversionService" class="org.springframework.context.support.ConversionServiceFactoryBean">
         <property name="converters">
             <set>
-                <bean class="com.bittergourd.mvc0.utils.StringToDateConverter"/>
+                <bean class="com.bittergourd.utils.StringToDateConverter"/>
             </set>
         </property>
     </bean>

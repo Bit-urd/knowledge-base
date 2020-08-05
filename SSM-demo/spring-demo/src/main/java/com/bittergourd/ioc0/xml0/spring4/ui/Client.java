@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.xml.spring4.ui;
+package com.bittergourd.ioc0.xml0.spring4.ui;
 
-import com.bittergourd.ioc0.xml.spring4.service.IAccountService;
-import com.bittergourd.ioc0.xml.spring4.service.IAccountService;
+import com.bittergourd.ioc0.xml0.spring4.service.IAccountService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

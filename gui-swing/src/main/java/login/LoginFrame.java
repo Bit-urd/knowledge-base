@@ -5,16 +5,25 @@
 package login;
 
 import java.awt.*;
+import java.awt.event.*;
 import javax.swing.*;
 import net.miginfocom.swing.*;
 
 /**
  * @author biturd
  */
-public class Login extends JFrame {
-    public Login() {
+public class LoginFrame extends JFrame {
+    public LoginFrame() {
         initComponents();
         setVisible(true);
+    }
+
+    private void loginbuttonActionPerformed(ActionEvent e) {
+        // TODO add your code here
+    }
+
+    private void registryActionPerformed(ActionEvent e) {
+        // TODO add your code here
     }
 
     private void initComponents() {
@@ -26,6 +35,7 @@ public class Login extends JFrame {
         passwordField1 = new JPasswordField();
         button1 = new JButton();
         button2 = new JButton();
+        label4 = new JLabel();
 
         //======== this ========
         setMinimumSize(new Dimension(600, 400));
@@ -39,6 +49,7 @@ public class Login extends JFrame {
             "[fill]" +
             "[fill]",
             // rows
+            "[]" +
             "[]" +
             "[]" +
             "[]" +
@@ -61,11 +72,18 @@ public class Login extends JFrame {
 
         //---- button1 ----
         button1.setText("\u767b\u9646");
+        button1.addActionListener(e -> loginbuttonActionPerformed(e));
         contentPane.add(button1, "cell 1 3");
 
         //---- button2 ----
         button2.setText("\u6ce8\u518c");
+        button2.addActionListener(e -> registryActionPerformed(e));
         contentPane.add(button2, "cell 3 3");
+
+        //---- label4 ----
+        label4.setText("text");
+        label4.setVisible(false);
+        contentPane.add(label4, "cell 2 4");
         pack();
         setLocationRelativeTo(getOwner());
         // JFormDesigner - End of component initialization  //GEN-END:initComponents
@@ -79,8 +97,6 @@ public class Login extends JFrame {
     private JPasswordField passwordField1;
     private JButton button1;
     private JButton button2;
+    private JLabel label4;
     // JFormDesigner - End of variables declaration  //GEN-END:variables
-    public static void main(String[] args) {
-        Login login = new Login();
-    }
 }

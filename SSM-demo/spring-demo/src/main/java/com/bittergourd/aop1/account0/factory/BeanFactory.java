@@ -1,7 +1,6 @@
 package com.bittergourd.aop1.account0.factory;
 
 import com.bittergourd.aop1.account0.service.IAccountService;
-import com.bittergourd.aop1.account0.service.IAccountService;
 import com.bittergourd.aop1.account0.utils.TransactionManager;
 
 import java.lang.reflect.InvocationHandler;

@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.xml.spring.dao;
+package com.bittergourd.ioc0.xml0.spring.dao;
 
 /**
  * 账户的持久层接口

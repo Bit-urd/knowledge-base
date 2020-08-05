@@ -1,8 +1,8 @@
-package com.bittergourd.ioc0.byebyexxml.service.impl;
+package com.bittergourd.ioc0.byebyexxml2.service.impl;
 
-import com.bittergourd.ioc0.byebyexxml.dao.IAccountDao;
-import com.bittergourd.ioc0.byebyexxml.domain.Account;
-import com.bittergourd.ioc0.byebyexxml.service.IAccountService;
+import com.bittergourd.ioc0.byebyexxml2.dao.IAccountDao;
+import com.bittergourd.ioc0.byebyexxml2.domain.Account;
+import com.bittergourd.ioc0.byebyexxml2.service.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 账户的业务层实现类
  */
-@Service("accountService")
+@Service
 public class AccountServiceImpl implements IAccountService {
 
     @Autowired

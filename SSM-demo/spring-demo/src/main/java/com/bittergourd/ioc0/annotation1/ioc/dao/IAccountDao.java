@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.annotation.ioc.dao;
+package com.bittergourd.ioc0.annotation1.ioc.dao;
 
 /**
  * 账户的持久层接口

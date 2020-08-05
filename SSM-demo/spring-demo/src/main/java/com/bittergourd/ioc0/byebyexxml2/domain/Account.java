@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.byebyexxml.domain;
+package com.bittergourd.ioc0.byebyexxml2.domain;
 
 import java.io.Serializable;
 

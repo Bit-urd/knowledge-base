@@ -1,6 +1,6 @@
-package com.bittergourd.ioc0.annotation.ioc.dao.impl;
+package com.bittergourd.ioc0.annotation1.ioc.dao.impl;
 
-import com.bittergourd.ioc0.annotation.ioc.dao.IAccountDao;
+import com.bittergourd.ioc0.annotation1.ioc.dao.IAccountDao;
 import org.springframework.stereotype.Repository;
 
 /**

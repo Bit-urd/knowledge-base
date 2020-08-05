@@ -1,9 +1,7 @@
-package com.bittergourd.ioc0.annotation.ioc.service.impl;
+package com.bittergourd.ioc0.annotation1.ioc.service.impl;
 
-import com.bittergourd.ioc0.annotation.ioc.dao.IAccountDao;
-import com.bittergourd.ioc0.annotation.ioc.service.IAccountService;
-import com.bittergourd.ioc0.annotation.ioc.dao.IAccountDao;
-import com.bittergourd.ioc0.annotation.ioc.service.IAccountService;
+import com.bittergourd.ioc0.annotation1.ioc.dao.IAccountDao;
+import com.bittergourd.ioc0.annotation1.ioc.service.IAccountService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;

@@ -1,4 +1,4 @@
-package com.bittergourd.knowledgebase.jvm.test;
+package com.biturd.knowledgebase.jvm.test;
 
 import java.util.List;
 

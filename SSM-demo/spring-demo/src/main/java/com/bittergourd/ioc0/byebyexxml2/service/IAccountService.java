@@ -1,6 +1,7 @@
-package com.bittergourd.ioc0.byebyexxml.service;
+package com.bittergourd.ioc0.byebyexxml2.service;
 
-import com.bittergourd.ioc0.byebyexxml.domain.Account;
+import com.bittergourd.ioc0.byebyexxml2.domain.Account;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 

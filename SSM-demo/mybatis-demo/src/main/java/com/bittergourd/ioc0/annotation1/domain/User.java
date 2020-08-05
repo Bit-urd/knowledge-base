@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.annotation.domain;
+package com.bittergourd.ioc0.annotation1.domain;
 
 import java.io.Serializable;
 import java.util.Date;

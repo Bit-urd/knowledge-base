@@ -7,155 +7,248 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8845d6b4-7918-48ae-8010-736e05a758a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/META-INF/tradition-web.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/com/BitterGourd/knowlegebase/CRUD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/classes/com/BitterGourd/knowlegebase/JDBCUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/tradition_web_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/tradition-web/META-INF/tradition-web.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tradition-web/src/daoconf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/mybatis-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/ioc0/annotation1/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/ioc0/annotation1/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/ioc0/annotation1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/mybatis/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/mybatis/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/mybatis/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/java/com/bittergourd/mybatis/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/com/bittergourd/mybatis/dao/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/mybatisdb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/test/java/com/bittergourd/ioc0/annotation1/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/src/test/java/com/bittergourd/mybatis/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/target/classes/com/bittergourd/mybatis/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/target/classes/com/bittergourd/mybatis/dao/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/mybatis-demo/target/classes/com/bittergourd/mybatis/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/service/impl/AccountServiceImpl_OLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/account0/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/annotationAOP3/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/annotationAOP3/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/annotationAOP3/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/aop1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/aop1/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/aop1/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/aop1/aop1/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/dao/impl/AccountDaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/annotation1/ioc/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/config/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring2/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/factory/InstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/factory/StaticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring3/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/service/impl/AccountServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/service/impl/AccountServiceImpl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/xml0/spring4/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/dao/impl/AccountDaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/dao/impl/JdbcDaoSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/dao/impl/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/jdbctemplate/JdbcTemplateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/jdbctemplate/JdbcTemplateDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/jdbc2/jdbctemplate/JdbcTemplateDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/aop1/account0/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/aop1/adviceType2/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/aop1/annotationAOP3/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/aop1/aop1/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/ioc0/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/ioc0/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/ioc0/bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/ioc0/bean4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/ioc0/beanan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/com/bittergourd/jdbc2/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/spring-demo/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/springMVC-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/controller/AnnoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/controller/ParamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/mvc1/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/mvc1/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/java/com/bittergourd/utils/StringToDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/webapp/anno.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSM-demo/springMVC-demo/src/main/webapp/param.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/dao/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/login/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/login/LoginFrame.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/search/SearchFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/java/search/SearchFrame.jfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-swing/src/main/resources/sqlScripts/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/java-se.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/collection/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/collection/hashMap/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/collection/hashMap/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/ProviderConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/VolatileStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/IDenyPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/IRunnableQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/InnerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/MyRunnableQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/MyThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-se/src/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/java/com/bittergourd/dynamicProxy/cglib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/java/com/bittergourd/dynamicProxy/cglib/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/java/com/bittergourd/dynamicProxy/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/java/com/bittergourd/dynamicProxy/proxy/IProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/java/com/bittergourd/dynamicProxy/proxy/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-web/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-java/src/main/java/com/biturd/mongo/primary/MongoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-java/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/DiretoryMemoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/DiretoryMemoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/HeapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/HeapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/MetaspaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/MetaspaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/StringGarbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/StringGarbage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/test/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/test/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/test/JDKEncode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/test/JDKEncode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/test/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/test/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/test/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/test/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-se/src/com/BitterGourd/knowlegebase/jvm/test/b.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/jvm/test/b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge-base.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-web/maven-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/maven-web/maven-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maven-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/AbstractDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/CRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/ConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/DataSourcePool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/MyConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/ORMDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/TransactionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/daoDemo/util/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/src/com/bittergourd/knowlegebase/webView/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradition-web/tradition-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/tradition-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/web/target/" />
-    <ignored path="$PROJECT_DIR$/maven-web/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="knowledge-base" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>SQLException</find>
-      <find>cause</find>
-      <find>Iterable</find>
-      <find>StackTraceElement</find>
-      <find>daoFactory</find>
-      <find>close</find>
-      <find>abstract</find>
-      <find>DataSourcePool</find>
+      <find>T</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/web/pom.xml" />
-        <option value="$PROJECT_DIR$/maven-web/pom.xml" />
-        <option value="$PROJECT_DIR$/tradition-web/src/a.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/ExceptionSilencer.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/StormyInning.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/JDBCUtils.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/test1.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/test.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/Strategize.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/Strategize.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/RecursiveFibonacci.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/l.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/function.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/UnboundMethodReference.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/a.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/java8/Closure6.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/daoconf.properties" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/UserDao.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/DaoFactory.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/TransactionDemo.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/CRUD.java" />
-        <option value="$PROJECT_DIR$/tradition-web/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/test/a.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/a.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/DataSourceAdapter.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JdbcTemplateDemo.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java" />
-        <option value="$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -166,141 +259,108 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="Biturd-Common" />
+        <option value="Biturd-Nexus" />
+        <option value="jdk1.8" />
+      </list>
+    </option>
   </component>
-  <component name="MavenProjectNavigator">
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local,internal" />
+  </component>
+  <component name="ProjectId" id="1bkfSFDy6kdftYltVl6nn53lO67" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mybatis-demo/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20338982" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.BitterGourd.knowlegebase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bittergourd.jdbc2" />
+      <recent name="com.bittergourd.aop1" />
+      <recent name="com.bittergourd.aop1.adviceType2" />
+      <recent name="com.bittergourd" />
+      <recent name="com.bittergourd.mybatis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git仓库\knowledge-base\springMVC-demo\src\main\java" />
+      <recent name="E:\git仓库\knowledge-base\springMVC-demo\src\main" />
+      <recent name="E:\git仓库\knowledge-base\springMVC-demo\src" />
+      <recent name="E:\git仓库\knowledge-base\spring-demo\src\main\resources\com\bittergourd\jdbc2" />
+      <recent name="E:\git仓库\knowledge-base\spring-demo\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bittergourd.annotation" />
+      <recent name="com.bittergourd.annotation.dao" />
+      <recent name="com.bittergourd.annotation.domain" />
+      <recent name="com.bittergourd.mybatis" />
+      <recent name="com.BitterGourd.knowlegebase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code-repository\git-repo\knowledge-base\gui-swing\src\main\resources\sqlScripts" />
+      <recent name="E:\code-repository\git-repo\knowledge-base\gui-swing\src\main\java\login" />
+      <recent name="E:\git仓库\knowledge-base\SSM-demo" />
+      <recent name="E:\git仓库\knowledge-base\springMVC-demo\src" />
+      <recent name="E:\git仓库\knowledge-base\spring-demo\src\main\resources\com\bittergourd\ioc0" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
     <treeState>
       <expand>
         <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="knowledge-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Found 20 services " type="fcff1e1b:RestServiceStructure$RootNode" />
         </path>
         <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="maven-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Found 20 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="springMVC-demo" type="c588b436:RestServiceStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="MavenRunner">
-    <option name="vmOptions" value="-DarchetypeCatalog=local,internal" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="785" />
-    <option name="y" value="35" />
-    <option name="width" value="1080" />
-    <option name="height" value="1090" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
-              <item name="daoDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-base" type="462c0819:PsiDirectoryNode" />
-              <item name="tradition-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="knowlegebase" type="462c0819:PsiDirectoryNode" />
-              <item name="daoDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringJdbcTemplate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="E:/apache-tomcat/lib/jsp-api.jar!/" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\git仓库\knowledge-base\tradition-web\src\com\BitterGourd\knowlegebase\daoDemo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.BitterGourd.knowlegebase" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.BitterGourd.knowlegebase" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.AbstractDao">
-    <configuration name="AbstractDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.BitterGourd.knowlegebase.daoDemo.AbstractDao" />
-      <module name="tradition-web" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="HelloB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.biturd.knowledgebase.HelloB" />
+      <module name="java-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.BitterGourd.knowlegebase.daoDemo.SpringJdbcTemplate.*" />
+          <option name="PATTERN" value="com.biturd.knowledgebase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Closure6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Closure6" />
-      <module name="tradition-web" />
+    <configuration name="MyReentrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.biturd.knowledgebase.thread.MyReentrantLock" />
+      <module name="java-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="com.biturd.knowledgebase.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.RecursiveFibonacci" />
-      <module name="tradition-web" />
+    <configuration name="ProviderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.biturd.knowledgebase.thread.ProviderConsumer" />
+      <module name="java-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="com.biturd.knowledgebase.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,22 +394,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strategize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Strategize" />
-      <module name="tradition-web" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.biturd.knowledgebase.Test" />
+      <module name="java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.biturd.knowledgebase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransformFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.TransformFunction" />
-      <module name="tradition-web" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.biturd.knowledgebase.thread.pool.Test" />
+      <module name="java-se" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="com.biturd.knowledgebase.thread.pool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in mybatis-demo" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="mybatis-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="mybatis-demo" />
+      <option name="PACKAGE_NAME" value="com.bittergourd.mybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.bittergourd.mybatis.MybatisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafSpringbootStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thymeleaf-springboot-study" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bittergourd.thymeleafspringbootstudy.ThymeleafSpringbootStudyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -395,15 +488,29 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ProviderConsumer" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.HelloB" />
+      <item itemvalue="JUnit.MybatisTest" />
+      <item itemvalue="JUnit.All in mybatis-demo" />
+      <item itemvalue="Spring Boot.ThymeleafSpringbootStudyApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.41" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.MyReentrantLock" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractDao" />
-        <item itemvalue="Application.Closure6" />
-        <item itemvalue="Application.TransformFunction" />
-        <item itemvalue="Application.RecursiveFibonacci" />
-        <item itemvalue="Application.Strategize" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.HelloB" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MyReentrantLock" />
+        <item itemvalue="Application.ProviderConsumer" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
@@ -438,11 +545,51 @@
       <workItem from="1579330834701" duration="19757000" />
       <workItem from="1579368979773" duration="594000" />
       <workItem from="1579369913468" duration="1231000" />
+      <workItem from="1580176003414" duration="605000" />
+      <workItem from="1580272388545" duration="7141000" />
+      <workItem from="1580279588154" duration="221000" />
+      <workItem from="1580279846607" duration="7593000" />
+      <workItem from="1580299769908" duration="46000" />
+      <workItem from="1580355254841" duration="7294000" />
+      <workItem from="1580392426220" duration="2501000" />
+      <workItem from="1580394964244" duration="10567000" />
+      <workItem from="1580428303700" duration="249000" />
+      <workItem from="1580428678622" duration="16302000" />
+      <workItem from="1580525938534" duration="12392000" />
+      <workItem from="1580579108359" duration="1940000" />
+      <workItem from="1580582872624" duration="4701000" />
+      <workItem from="1580605316961" duration="13560000" />
+      <workItem from="1580793938005" duration="973000" />
+      <workItem from="1580875719694" duration="710000" />
+      <workItem from="1581934186727" duration="5358000" />
+      <workItem from="1582015102296" duration="35000" />
+      <workItem from="1589181027782" duration="4046000" />
+      <workItem from="1590335754966" duration="114000" />
+      <workItem from="1590335897745" duration="2017000" />
+      <workItem from="1590341145757" duration="3322000" />
+      <workItem from="1590375495502" duration="5352000" />
+      <workItem from="1590380979041" duration="2770000" />
+      <workItem from="1590385226444" duration="3327000" />
+      <workItem from="1590464121165" duration="13348000" />
+      <workItem from="1590497378263" duration="1002000" />
+      <workItem from="1590504030641" duration="21038000" />
+      <workItem from="1590563812189" duration="391000" />
+      <workItem from="1590564386627" duration="3316000" />
+      <workItem from="1590568078963" duration="213000" />
+      <workItem from="1590568309891" duration="685000" />
+      <workItem from="1592145205521" duration="6532000" />
+      <workItem from="1592204276537" duration="14335000" />
+      <workItem from="1592751064785" duration="11296000" />
+      <workItem from="1592843126932" duration="19924000" />
+      <workItem from="1592997762583" duration="2854000" />
+      <workItem from="1593238424532" duration="1483000" />
+      <workItem from="1593419708439" duration="826000" />
+      <workItem from="1593493815910" duration="1744000" />
+      <workItem from="1593592566426" duration="1537000" />
+      <workItem from="1596455225914" duration="4564000" />
+      <workItem from="1596581992931" duration="8788000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,612 +600,114 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.22184986" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.502" side_tool="true" weight="0.20844504" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39544237" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32841823" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49751243" weight="0.2613941" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50248754" side_tool="true" weight="0.3581081" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32841823" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3297587" />
-      <window_info anchor="bottom" id="Duplicates" order="14" weight="0.3297587" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.3297587" />
-      <window_info anchor="bottom" id="Spring" order="16" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.12734585" />
-      <window_info anchor="right" id="PlantUML" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Structure" order="7" sideWeight="0.5013405" weight="0.5545906" />
-      <window_info anchor="right" id="SciView" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Palette&#9;" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="269" key="#SQL_Dialects" timestamp="1590464338531">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="179" y="269" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1590464338531" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590383778512">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590383778512" />
+    <state x="525" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1596591193168">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="525" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1596591193168" />
+    <state x="156" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596588120617">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="156" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1596588120617" />
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589186101651">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.864@0.0.1536.864" timestamp="1589186101651" />
+    <state x="465" y="79" key="#init.sql" timestamp="1590465289968">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="79" key="#init.sql/0.0.1536.864@0.0.1536.864" timestamp="1590465289968" />
+    <state x="820" y="107" key="FileChooserDialogImpl" timestamp="1592932546056">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="820" y="107" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592932546056" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1596593578388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596593578388" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1596593578388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596593578388" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1596593578388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596593578388" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1596593578388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596593578388" />
+    <state x="300" y="163" key="IDE.errors.dialog" timestamp="1593240609877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="300" y="163" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1593240609877" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1590476683620">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1590476683620" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1596457872633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596457872633" />
+    <state width="498" height="708" key="SwitcherDM" timestamp="1596588197469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="498" height="708" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1596588197469" />
+    <state width="1534" height="862" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1592839419292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1534" height="862" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.864@0.0.1536.864" timestamp="1592839419292" />
+    <state x="625" y="247" width="518" height="370" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1590472959422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="625" y="247" width="518" height="370" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1590472959422" />
+    <state x="499" y="181" key="extract.method.dialog" timestamp="1592754426292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="181" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1592754426292" />
+    <state x="178" y="93" key="new project wizard" timestamp="1590335786549">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="93" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590335786549" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1592932126943">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1592932126943" />
+    <state x="530" y="376" width="672" height="678" key="search.everywhere.popup" timestamp="1596455435844">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="530" y="376" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596455435844" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tradition-web/src/java8/Strategize.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/SSM-demo/spring-demo/src/main/java/com/bittergourd/ioc0/byebyexxml2/MyTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/a.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-se/src/com/biturd/knowledgebase/thread/pool/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>size</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>apply(t)</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>java.lang.invoke.MethodHandleImpl</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>fillInStackTrace(0)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>this.toString();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>this</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/daoconf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/jdbc/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/MysqlDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3695">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/DatabaseMetaData.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8115">
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/ConnectionWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="50" column="50" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/3.0.8/mysql-connector-java-3.0.8.jar!/com/mysql/jdbc/Connection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="606" column="22" selection-start-line="606" selection-start-column="22" selection-end-line="606" selection-end-column="22" />
-          <folding>
-            <element signature="e#26871#26872#0" expanded="true" />
-            <element signature="e#26919#26920#0" expanded="true" />
-            <element signature="e#28976#28977#0" expanded="true" />
-            <element signature="e#29018#29019#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/jdbc/ConnectionImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/test/a.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/api/MysqlConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar!/com/mysql/cj/api/jdbc/JdbcConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/lang/AutoCloseable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/ServletConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/Servlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-tomcat/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/webView/a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/javax/sql/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/DataSourceAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.my:knowledge-base:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.my:knowledge-base:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.my:knowledge-base:1.0-SNAPSHOT</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="11.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/CRUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/AbstractDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/TransactionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/RowMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ConnectionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/JDBCUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/MyConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/util/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/support/JdbcUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1560">
-          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/ResultSetMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/java/sql/Wrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/src.zip!/javax/sql/RowSetMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/ORMDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/BeanPropertyRowMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1500">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/support/GeneratedKeyHolder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringTemplate.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/simple/SimpleJdbcCall.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.26.RELEASE/spring-jdbc-4.3.26.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/DataSourcePool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/SimpleJdbcTemplateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tradition-web/src/com/BitterGourd/knowlegebase/daoDemo/SpringJdbcTemplate/JdbcTemplateDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>tradition-web:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>tradition-web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>org.springframework:spring-jdbc:4.3.26.RELEASE</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

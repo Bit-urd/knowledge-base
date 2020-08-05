@@ -10,6 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>SSM-demo</artifactId>
-
+    <modules>
+        <module>mybatis-demo</module>
+        <module>spring-demo</module>
+        <module>springMVC-demo</module>
+    </modules>
 
 </project>

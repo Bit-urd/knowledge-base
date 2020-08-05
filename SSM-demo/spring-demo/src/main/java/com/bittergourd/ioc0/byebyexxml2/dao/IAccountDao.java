@@ -1,6 +1,6 @@
-package com.bittergourd.ioc0.byebyexxml.dao;
+package com.bittergourd.ioc0.byebyexxml2.dao;
 
-import com.bittergourd.ioc0.byebyexxml.domain.Account;
+import com.bittergourd.ioc0.byebyexxml2.domain.Account;
 
 import java.util.List;
 

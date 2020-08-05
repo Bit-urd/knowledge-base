@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>myservlet</servlet-name>
-        <servlet-class>com.BitterGourd.knowlegebase.webView.</servlet-class>
+        <servlet-class>com.bittergourd.knowlegebase.webView.</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>myservlet</servlet-name>

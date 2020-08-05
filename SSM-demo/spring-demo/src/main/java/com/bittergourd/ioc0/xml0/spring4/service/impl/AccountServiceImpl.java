@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.xml.spring4.service.impl;
+package com.bittergourd.ioc0.xml0.spring4.service.impl;
 
-import com.bittergourd.ioc0.xml.spring4.service.IAccountService;
-import com.bittergourd.ioc0.xml.spring4.service.IAccountService;
+import com.bittergourd.ioc0.xml0.spring4.service.IAccountService;
 
 import java.util.Date;
 

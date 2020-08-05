@@ -1,7 +1,6 @@
 package com.bittergourd.mybatis.dao;
 
 import com.bittergourd.mybatis.domain.User;
-import com.bittergourd.mybatis.domain.User;
 
 import java.util.List;
 

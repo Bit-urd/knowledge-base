@@ -52,8 +52,8 @@
     </environments>
     <!-- 配置映射文件的位置 -->
     <mappers>
-<!--        <mapper resource="com/bittergourd/mybatis/dao/UserDao.xml"></mapper>-->
+<!--        <mapper resource="com/bittergourd/mybatis/dao/UserDao.xml0"></mapper>-->
         <!-- package标签是用于指定dao接口所在的包,当指定了之后就不需要在写mapper以及resource或者class了 -->
-        <package name="com.bittergourd.ioc0.annotation.dao"></package>
+        <package name="com.bittergourd.ioc0.annotation1.dao"></package>
     </mappers>
 </configuration>

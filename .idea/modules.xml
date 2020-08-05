@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-se/java-se.iml" filepath="$PROJECT_DIR$/java-se/java-se.iml" />
       <module fileurl="file://$PROJECT_DIR$/tradition-web/tradition-web.iml" filepath="$PROJECT_DIR$/tradition-web/tradition-web.iml" />
     </modules>
   </component>

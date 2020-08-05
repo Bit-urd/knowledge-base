@@ -16,7 +16,7 @@ public class MyRunnableQueue implements IRunnableQueue {
 
     private final IDenyPolicy iDenyPolicy;
 
-    public MyRunnableQueue(int maxValue,IDenyPolicy iDenyPolicy){
+    public MyRunnableQueue(int maxValue, IDenyPolicy iDenyPolicy){
         this.maxValue = maxValue;
         this.iDenyPolicy = iDenyPolicy;
     }
@@ -24,11 +24,10 @@ public class MyRunnableQueue implements IRunnableQueue {
     @Override
     public void offer(Runnable runnable) {  // 添加，如果小于最大值 就 添加
         synchronized (myThreadQueue) {
-            if (myThreadQueue.size() > maxValue) {
+            if (myThreadQueue.size() >= maxValue) {
                 iDenyPolicy.reject(runnable, this);
             }else {
                 myThreadQueue.addLast(runnable);
-                runnable.notifyAll();
             }
         }
     }

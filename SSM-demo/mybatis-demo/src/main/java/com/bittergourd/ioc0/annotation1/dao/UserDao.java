@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.annotation.dao;
+package com.bittergourd.ioc0.annotation1.dao;
 
-import com.bittergourd.ioc0.annotation.domain.User;
-import com.bittergourd.ioc0.annotation.domain.User;
+import com.bittergourd.ioc0.annotation1.domain.User;
 import org.apache.ibatis.annotations.Select;
 
 import java.util.List;

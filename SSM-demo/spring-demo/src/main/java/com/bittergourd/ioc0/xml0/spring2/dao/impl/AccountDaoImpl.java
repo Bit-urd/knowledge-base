@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.xml.spring2.dao.impl;
+package com.bittergourd.ioc0.xml0.spring2.dao.impl;
 
-import com.bittergourd.ioc0.xml.spring2.dao.IAccountDao;
-import com.bittergourd.ioc0.xml.spring2.dao.IAccountDao;
+import com.bittergourd.ioc0.xml0.spring2.dao.IAccountDao;
 
 /**
  * 账户的持久层实现类

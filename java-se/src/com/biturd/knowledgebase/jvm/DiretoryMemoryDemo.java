@@ -1,4 +1,4 @@
-package com.bittergourd.knowledgebase.jvm;
+package com.biturd.knowledgebase.jvm;
 
 /**
  * @Program: knowledge-base

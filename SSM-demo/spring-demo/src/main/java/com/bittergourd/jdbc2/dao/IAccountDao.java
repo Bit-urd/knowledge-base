@@ -1,7 +1,6 @@
 package com.bittergourd.jdbc2.dao;
 
 import com.bittergourd.jdbc2.domain.Account;
-import com.bittergourd.jdbc2.domain.Account;
 
 /**
  * 账户的持久层接口

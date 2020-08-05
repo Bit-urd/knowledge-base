@@ -1,4 +1,4 @@
-package com.bittergourd.knowledgebase.collection.hashMap;
+package com.biturd.knowledgebase.collection.hashMap;
 
 /**
  * @Program: knowledge-base

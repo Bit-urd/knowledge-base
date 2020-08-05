@@ -1,4 +1,4 @@
-JFDML JFormDesigner: "6.0.6.2.195" Java: "11.0.6" encoding: "UTF-8"
+JFDML JFormDesigner: "6.0.6.2.195" Java: "1.8.0_152-release" encoding: "UTF-8"
 
 new FormModel {
 	contentType: "form/swing"
@@ -6,16 +6,16 @@ new FormModel {
 		add( new FormWindow( "javax.swing.JFrame", new FormLayoutManager( class net.miginfocom.swing.MigLayout ) {
 			"$layoutConstraints": "hidemode 3,align center center"
 			"$columnConstraints": "[fill][fill][fill][fill][fill][fill][fill][fill][fill][fill][fill]"
-			"$rowConstraints": "[][][][][][]"
+			"$rowConstraints": "[][][][][][][]"
 		} ) {
 			name: "this"
 			"font": new java.awt.Font( "Dialog", 0, 23 )
 			"visible": true
-			"defaultCloseOperation": 3
+			"defaultCloseOperation": 2
 			"minimumSize": new java.awt.Dimension( 600, 400 )
 			add( new FormComponent( "javax.swing.JLabel" ) {
 				name: "label1"
-				"text": "书籍搜索界面"
+				"text": "光盘搜索界面"
 				"font": new com.jformdesigner.model.SwingDerivedFont( null, 0, 11, false )
 			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
 				"value": "cell 5 1"
@@ -28,6 +28,13 @@ new FormModel {
 			add( new FormComponent( "javax.swing.JButton" ) {
 				name: "button1"
 				"text": "搜索"
+				addEvent( new FormEvent( "java.awt.event.ActionListener", "actionPerformed", "searchActionPerformed", true ) )
+			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
+				"value": "cell 5 4"
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "label2"
+				"visible": false
 			}, new FormLayoutConstraints( class net.miginfocom.layout.CC ) {
 				"value": "cell 5 5"
 			} )

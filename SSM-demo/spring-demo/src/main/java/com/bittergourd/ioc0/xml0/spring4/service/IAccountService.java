@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.xml.spring4.service;
+package com.bittergourd.ioc0.xml0.spring4.service;
 
 /**
  * 账户业务层的接口

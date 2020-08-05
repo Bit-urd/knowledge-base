@@ -1,9 +1,7 @@
-package com.bittergourd.ioc0.xml.spring2.ui;
+package com.bittergourd.ioc0.xml0.spring2.ui;
 
-import com.bittergourd.ioc0.xml.spring2.dao.IAccountDao;
-import com.bittergourd.ioc0.xml.spring2.service.IAccountService;
-import com.bittergourd.ioc0.xml.spring2.dao.IAccountDao;
-import com.bittergourd.ioc0.xml.spring2.service.IAccountService;
+import com.bittergourd.ioc0.xml0.spring2.dao.IAccountDao;
+import com.bittergourd.ioc0.xml0.spring2.service.IAccountService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -33,7 +31,7 @@ public class Client {
         //1.获取核心容器对象
         ApplicationContext ac = new ClassPathXmlApplicationContext(
                 "com/bittergourd/ioc0/bean2.xml");
-//        ApplicationContext ac = new FileSystemXmlApplicationContext("C:\\Users\\zhy\\Desktop\\bean.xml");
+//        ApplicationContext ac = new FileSystemXmlApplicationContext("C:\\Users\\zhy\\Desktop\\bean.xml0");
         //2.根据id获取Bean对象
         IAccountService as  = (IAccountService)ac.getBean("accountService");
         IAccountDao adao = ac.getBean("accountDao",IAccountDao.class);
@@ -44,7 +42,7 @@ public class Client {
 
 
         //--------BeanFactory----------
-//        Resource resource = new ClassPathResource("bean.xml");
+//        Resource resource = new ClassPathResource("bean.xml0");
 //        BeanFactory factory = new XmlBeanFactory(resource);
 //        IAccountService as  = (IAccountService)factory.getBean("accountService");
 //        System.out.println(as);

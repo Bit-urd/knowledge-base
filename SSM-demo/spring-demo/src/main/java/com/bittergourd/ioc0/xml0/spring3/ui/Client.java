@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.xml.spring3.ui;
+package com.bittergourd.ioc0.xml0.spring3.ui;
 
-import com.bittergourd.ioc0.xml.spring3.service.IAccountService;
-import com.bittergourd.ioc0.xml.spring3.service.IAccountService;
+import com.bittergourd.ioc0.xml0.spring3.service.IAccountService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -15,7 +14,7 @@ public class Client {
      */
     public static void main(String[] args) {
         //1.获取核心容器对象
-//        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+//        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml0");
         ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("com/bittergourd/ioc0/bean.xml");
         //2.根据id获取Bean对象
         IAccountService as  = (IAccountService)ac.getBean("accountService");

@@ -1,7 +1,7 @@
-package com.bittergourd.ioc0.byebyexxml.dao.impl;
+package com.bittergourd.ioc0.byebyexxml2.dao.impl;
 
-import com.bittergourd.ioc0.byebyexxml.domain.Account;
-import com.bittergourd.ioc0.byebyexxml.dao.IAccountDao;
+import com.bittergourd.ioc0.byebyexxml2.domain.Account;
+import com.bittergourd.ioc0.byebyexxml2.dao.IAccountDao;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;

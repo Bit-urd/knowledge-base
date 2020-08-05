@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.annotation.ioc.ui;
+package com.bittergourd.ioc0.annotation1.ioc.ui;
 
-import com.bittergourd.ioc0.annotation.ioc.service.IAccountService;
-import com.bittergourd.ioc0.annotation.ioc.service.IAccountService;
+import com.bittergourd.ioc0.annotation1.ioc.service.IAccountService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -14,7 +13,7 @@ public class Client {
      */
     public static void main(String[] args) {
         //1.获取核心容器对象
-//        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+//        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml0");
         ClassPathXmlApplicationContext ac =
                 new ClassPathXmlApplicationContext("com/bittergourd/ioc0/beanan.xml");
         //2.根据id获取Bean对象

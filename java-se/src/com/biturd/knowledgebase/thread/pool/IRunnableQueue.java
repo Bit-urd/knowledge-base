@@ -6,7 +6,7 @@ package com.biturd.knowledgebase.thread.pool;
  * @Author: Biturd
  * @Date: 2020-08-03 19:48
  */
-public interface IThreadPool {  // 池子就是一个队列
+public interface IRunnableQueue {  // 池子就是一个队列
     void offer(Runnable runnable);
 
     Runnable take();

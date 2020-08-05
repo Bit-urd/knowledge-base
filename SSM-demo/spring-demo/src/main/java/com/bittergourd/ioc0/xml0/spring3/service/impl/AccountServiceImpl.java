@@ -1,7 +1,6 @@
-package com.bittergourd.ioc0.xml.spring3.service.impl;
+package com.bittergourd.ioc0.xml0.spring3.service.impl;
 
-import com.bittergourd.ioc0.xml.spring3.service.IAccountService;
-import com.bittergourd.ioc0.xml.spring3.service.IAccountService;
+import com.bittergourd.ioc0.xml0.spring3.service.IAccountService;
 
 /**
  * 账户的业务层实现类

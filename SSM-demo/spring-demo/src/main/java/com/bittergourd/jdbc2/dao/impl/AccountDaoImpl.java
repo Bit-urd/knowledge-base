@@ -2,7 +2,6 @@ package com.bittergourd.jdbc2.dao.impl;
 
 import com.bittergourd.jdbc2.domain.Account;
 import com.bittergourd.jdbc2.dao.IAccountDao;
-import com.bittergourd.jdbc2.domain.Account;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.support.JdbcDaoSupport;
 

@@ -1,8 +1,7 @@
 package com.bittergourd.aop1.account0.dao;
 
 import com.bittergourd.aop1.account0.domain.Account;
-import com.bittergourd.aop1.account0.domain.Account;
-import com.bittergourd.aop1.adviceType2.itheima.domain.Account;
+//import com.bittergourd.aop1.adviceType2.itheima.domain.Account;
 
 import java.util.List;
 

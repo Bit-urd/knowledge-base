@@ -1,4 +1,4 @@
-package com.bittergourd.knowledgebase.jvm;
+package com.biturd.knowledgebase.jvm;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.bittergourd.ioc0.annotation;
+package com.bittergourd.ioc0.annotation1;
 
-import com.bittergourd.ioc0.annotation.dao.UserDao;
-import com.bittergourd.ioc0.annotation.domain.User;
+import com.bittergourd.ioc0.annotation1.dao.UserDao;
+import com.bittergourd.ioc0.annotation1.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -30,7 +30,7 @@ public class MybatisTest {
     public void before() throws Exception {
         // 1. 读取配置文件
         in = Resources.getResourceAsStream("SqlMapConfig" +
-                ".xml");
+                ".xml0");
         // 2. 创建SqlSessionFactory工厂
         SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
         SqlSessionFactory factory = builder.build(in);
@@ -62,7 +62,7 @@ public class MybatisTest {
     public void testFindAll() throws IOException {
         // 1. 读取配置文件
         InputStream in = Resources.getResourceAsStream("SqlMapConfig" +
-                ".xml");
+                ".xml0");
         // 2. 创建SqlSessionFactory工厂
         SqlSessionFactoryBuilder builder = new SqlSessionFactoryBuilder();
         SqlSessionFactory factory = builder.build(in);

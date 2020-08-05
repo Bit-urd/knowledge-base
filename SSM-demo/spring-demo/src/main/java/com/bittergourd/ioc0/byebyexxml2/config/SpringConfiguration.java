@@ -1,4 +1,4 @@
-package com.bittergourd.ioc0.byebyexxml.config;
+package com.bittergourd.ioc0.byebyexxml2.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Import;
@@ -35,9 +35,10 @@ import org.springframework.context.annotation.PropertySource;
  *                  关键字：classpath，表示类路径下
  */
 //@Configuration
-@ComponentScan("com.bittergourd.aop1.adviceType2.itheima")
+//@ComponentScan("com.bittergourd.aop1.adviceType2.itheima")
+@ComponentScan("com.bittergourd.ioc0.byebyexxml2")
 @Import(JdbcConfig.class)
-@PropertySource("classpath:jdbcConfig.properties")
+//@PropertySource("classpath:jdbcConfig.properties")
 public class SpringConfiguration {
 
 
